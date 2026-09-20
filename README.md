@@ -1,4 +1,5 @@
 #### 开源
+- [来也](https://laiye.com/)
 - [XiaoFeiShu](https://github.com/Jici-Zeroten/XiaoFeiShu)
 - [FlowBot](https://github.com/xlrpa/FlowBot)
 - [RPA-for-Digital-Marketing](https://github.com/CoheeYang/RPA-for-Digital-Marketing)
